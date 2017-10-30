@@ -24,4 +24,6 @@ We want our workshops to be accessible to everyone who wants to learn the princi
     - linear regression with Scipy
 
 ## Resources
+[Numpy and Matplotlib tutorial from Stanford](http://cs231n.github.io/python-numpy-tutorial/)
+[
 
