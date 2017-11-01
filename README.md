@@ -24,6 +24,11 @@ We want our workshops to be accessible to everyone who wants to learn the princi
     - linear regression with Scipy
 
 ## Resources
-[Numpy and Matplotlib tutorial from Stanford](http://cs231n.github.io/python-numpy-tutorial/)
-[
+- [Numpy and Matplotlib tutorial from Stanford](http://cs231n.github.io/python-numpy-tutorial/)
+- The official documentation for [Numpy](https://docs.scipy.org/doc/numpy-dev/index.html), [Scipy](https://docs.scipy.org/doc/scipy-1.0.0/reference/) and [Matplotlib](http://matplotlib.org)
+- [Numpy exercises](https://github.com/rougier/numpy-100) to practice the concepts covered in this workshop
+- [Quantopian's introduction to Numpy](https://github.com/quantopian/research_public/blob/master/notebooks/lectures/Introduction_to_NumPy/notebook.ipynb) (more finance-oriented)
+- [A tutorial on indexing, slicing and reshaping Numpy arrays](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)
+- [Scipy cookbook](http://scipy-cookbook.readthedocs.io) for examples of more advanced Scipy applications
+- [Seaborn](https://seaborn.pydata.org/) for more advanced visualizations with Matplotlib
 
